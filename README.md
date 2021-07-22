@@ -8,6 +8,13 @@ I find the concept of automation facilitating a sustainable future with advancem
 
 - 📈 I’m currently focusing on **Self Improvement, Soft Skills**
 
+- 💬 Favorite Quotes:
+
+   > "A man who lives fully is prepared to die at any time." - Mark Manson
+
+   > "The power of imagination makes us infinite." - John Muir
+
+
 - 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/soundarzozm)
 
 - 📫 Reach me at **soundarmurugan91@gmail.com**
