@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soundar Murugan</h1>
-<h3 align="center">I am a Senior B. Tech undergrad (MIT Manipal). My domains of interest include project management, data analysis, interpretation, data pipelines, deep learning, and IoT development.<br>
-I find the concept of automation facilitating a sustainable future with advancements in various technologies to be inspirational.</h3>
+<h4 align="left">I am a Senior B. Tech undergrad (MIT Manipal). My domains of interest include project management, data analysis, interpretation, data pipelines, deep learning, and IoT development.<br>
+I find the concept of automation facilitating a sustainable future with advancements in various technologies to be inspirational.</h4>
 
 - 🔭 I’m currently working on [Face Recognition Attendance Management](https://github.com/soundarzozm/face-recognition-attendance-management)
 
