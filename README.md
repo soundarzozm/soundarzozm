@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋, I'm Soundar Murugan</h1>
 
-- 🔭 I’m currently working on [Face Recognition Attendance Management](https://github.com/soundarzozm/face-recognition-attendance-management)
-
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
 - 📈 I’m currently focusing on **Self Improvement, Soft Skills**
