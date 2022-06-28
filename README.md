@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Soundar Murugan</h1>
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 I’m currently learning **Next.js development, Web3**
 
 - 📈 I’m currently focusing on **Self Improvement, Soft Skills**
 
