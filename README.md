@@ -15,7 +15,7 @@
 
 - 📫 Reach me at **soundarmurugan91@gmail.com**
 
-- 📄 Find my resume [here](https://learnermanipal-my.sharepoint.com/:b:/g/personal/soundar_murugan1_learner_manipal_edu/EQRzsMjK1uNOn-3DAPDGttwBGh9PISzfrhvzXPPw9d4Sbw?e=kDMO5c)
+- 📄 Find my resume [here](https://learnermanipal-my.sharepoint.com/:b:/g/personal/soundar_murugan1_learner_manipal_edu/EQRzsMjK1uNOn-3DAPDGttwBl6XTi4aP-1PuA-4c5uz6JA?e=8VrIba)
 
 - ⚡ Fun fact **I study Mechatronics Engineering**
 
