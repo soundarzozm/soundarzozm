@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning **TailwindCSS, Web3**
 
-- 📈 I’m currently focusing on **Self Improvement, Soft Skills**
-
 - 💬 Favorite Quotes:
 
    > "A man who lives fully is prepared to die at any time." - Mark Manson
@@ -15,9 +13,11 @@
 
 - 📫 Reach me at **soundarmurugan91@gmail.com**
 
+- 🌐 Visit my website [here](https://soundarmurugan.com)
+
 - 📄 Find my resume [here](https://learnermanipal-my.sharepoint.com/:b:/g/personal/soundar_murugan1_learner_manipal_edu/EQRzsMjK1uNOn-3DAPDGttwBl6XTi4aP-1PuA-4c5uz6JA?e=8VrIba)
 
-- ⚡ Fun fact **I study Mechatronics Engineering**
+- ⚡ Fun fact - **I studied Mechatronics Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
